@@ -1,0 +1,13 @@
+name: DSND_P1
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - sqlite
+  - scipy
+  - jupyter
+  
