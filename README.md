@@ -1,5 +1,6 @@
 # Investigating-Kaggle-Soccer-Dataset
-This is the first porject under the Data Scientist Nanodegree.
+This is the first porject under the Data Scientist Nanodegree. The article can be found at:<br>
+https://medium.com/@mohammed.sarraj/open-secrets-to-winning-in-soccer-75bc20c46be0
 
 # Data
 This data is taken from the following link:
